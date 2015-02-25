@@ -1,0 +1,33 @@
+{
+    "name": "placeholder-generator",
+    "version": "0.0.1",
+    "description": "Generates text by length using lorem-ipsum",
+    "main": "generate.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:beatak/placeholder-generator.git"
+    },
+    "keywords": [
+        "lorem",
+        "ipsum",
+        "lorem ipsum",
+        "development",
+        "text",
+        "generator"
+    ],
+    "author": "Takashi Mizohata <beatak@gmail.com> (http://github.com/beatak)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/beatak/placeholder-generator/issues"
+    },
+    "homepage": "https://github.com/beatak/placeholder-generator",
+    "dependencies": {
+        "lorem-ipsum": "^1.0.1"
+    },
+    "devDependencies": {
+        "mocha": "^2.1.0"
+    }
+}
